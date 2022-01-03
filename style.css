@@ -31,7 +31,7 @@ body {
     list-style: none;
 }
 
-.nav-link {
+.nav-link, .github-link {
     padding: 0 20px;
     line-height: 50px;
     transition: .3s;
@@ -43,7 +43,7 @@ body {
     color: black;
 }
 
-.nav-link:hover {
+.nav-link:hover, .github-link:hover {
     color: #bab9c0;
     text-decoration: underline;
 }
@@ -68,6 +68,17 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
+.section-profile {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
+}
+
+.avatar {
+    margin: 25px 0;
+}
   
 .section {
     width: 48%;
@@ -76,6 +87,7 @@ body {
 
 .section-title {
     color: black;
+    letter-spacing: 3px;
 }
 
 @media (max-width: 768px) {
@@ -132,6 +144,17 @@ body {
 
 .footer {
     background-color: rgb(39, 27, 27);
-    height: 20px;
+    color: white;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer-logo {
+    background-color: white;
+    height: 30px;
 }
 
