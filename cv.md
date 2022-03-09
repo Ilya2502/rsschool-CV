@@ -3,9 +3,13 @@
 # Gavrichkov Ilya
 
 ### Contact information:
-**tel:** *+37529-557-68-39*
+**Phone:** *+37529-557-68-39*
 
-**email:** *gavran2502@mail.ru*
+**E-mail:** *gavran2502@mail.ru*
+
+**Telegramm:** *@Shikaka_cha-cha-cha*
+
+**GitHub:** *[Ilya2502](https://github.com/Ilya2502)*
 
 ### Briefly about me:
 
@@ -15,7 +19,10 @@ For ten years I have been working in Minskenergo as a dispatcher. I manage the e
 
 ### Skills:
 
-Basic knowledge of HTML, CSS, Javascript.
+* HTML, CSS
+* Javascript
+* Git, GitHub
+* VS Code
 
 ### Code example:
 
@@ -30,10 +37,12 @@ export default (arr) => {
 
 ### Education and courses:
 
-* BNTU, energy faculty, electricity supply, 2006-2011 years;
+* BNTU, energy faculty, electricity supply;
 * HTML Academy free course;
 * hexlet course frontend-developer complited 50%;
 * successfully complited course «Intro to IT» LeverX Group.
+* successfully complited «stage 0» RSSchool.
+
 
 ### Languages:
 
