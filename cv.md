@@ -7,7 +7,7 @@
 
 **E-mail:** *gavran2502@mail.ru*
 
-**Telegramm:** *@Shikaka_cha-cha-cha*
+**Telegram:** *@Shikaka_cha-cha-cha*
 
 **GitHub:** *[Ilya2502](https://github.com/Ilya2502)*
 
